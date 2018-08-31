@@ -6,7 +6,7 @@ require 'features/web_helper'
 RSpec.feature 'User login', type: :feature do
   before(:each) { 
     visit('/')
-    sign_in_flaubert
+    sign_up_jackbert
   }
 
   scenario 'user can login to existing account' do

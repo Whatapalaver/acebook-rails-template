@@ -1,4 +1,4 @@
-def sign_in_flaubert
+def sign_up_jackbert
   visit('/')
   fill_in 'user_first_name', with: 'Jack'
   fill_in 'user_last_name', with: 'Sparrow'
