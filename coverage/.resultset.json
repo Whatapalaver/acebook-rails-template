@@ -299,7 +299,7 @@
         null,
         null,
         1,
-        15,
+        14,
         8,
         null,
         null,
@@ -463,13 +463,13 @@
       ],
       "/Users/dani/Projects/acebook-ROF/spec/features/web_helper.rb": [
         1,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         null
       ],
       "/Users/dani/Projects/acebook-ROF/spec/features/user_can_logout_spec.rb": [
@@ -482,16 +482,16 @@
         2,
         null,
         1,
-        1,
-        1,
         null,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
         null,
         null
@@ -686,6 +686,6 @@
         null
       ]
     },
-    "timestamp": 1535718672
+    "timestamp": 1535721042
   }
 }
