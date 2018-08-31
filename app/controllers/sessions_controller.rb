@@ -21,7 +21,7 @@ class SessionsController < ApplicationController
 
   def destroy
     log_out
-    # session[:user_id] = nil
+    session[:user_id] = nil
     redirect_to '/login'
   end
 end
