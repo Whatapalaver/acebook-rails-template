@@ -7,7 +7,7 @@
 
 ### Team members:
 :cocktail: Olive Brady  
-:unicorn_face:  Marcus Kerr  
+:smile_cat: Marcus Kerr  
 :wolf: Angela Wolff  
 :ghost: Danielle Booysen  
 
