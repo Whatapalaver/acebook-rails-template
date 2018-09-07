@@ -6,10 +6,10 @@
 ![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1536274819/Screen_Shot_2018-09-06_at_23.59.13_qhoqw0.png)
 
 ### Team members:
-- Olive Brady  
-- Marcus Kerr  
-- Angela Wolff  
-- Danielle Booysen  
+:cocktail: Olive Brady  
+:yaaaassss:  Marcus Kerr  
+:wolf: Angela Wolff  
+:ghost: Danielle Booysen  
 
 Fork this repository to `acebook-teamname` and customize
 the below**
